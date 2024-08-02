@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @NesrineKerkeni
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning NGS data analysis
-- 💞️ I’m looking to collaborate on WES data analysis 
-- 📫 How to reach me: on gihub
+👋 Hi
